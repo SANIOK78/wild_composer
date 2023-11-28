@@ -12,5 +12,7 @@
             "email": "alex@yahoo.fr"
         }
     ],
-    "require": {}
+    "require": {
+        "gipetto/cowsay": "^1.2"
+    }
 }
