@@ -1,0 +1,16 @@
+{
+    "name": "user/app",
+    "description": "test composer",
+    "autoload": {
+        "psr-4": {
+            "User\\App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alexandru Ghilev",
+            "email": "aghilev@yahoo.fr"
+        }
+    ],
+    "require": {}
+}
